@@ -1,0 +1,28 @@
+|jiaotong
+clk => cnt[11].CLK
+clk => cnt[10].CLK
+clk => cnt[9].CLK
+clk => cnt[8].CLK
+clk => cnt[7].CLK
+clk => cnt[6].CLK
+clk => cnt[5].CLK
+clk => cnt[4].CLK
+clk => cnt[3].CLK
+clk => cnt[2].CLK
+clk => cnt[1].CLK
+clk => cnt[0].CLK
+clk => clk5K.CLK
+L1 <= L1~reg0.DB_MAX_OUTPUT_PORT_TYPE
+L2 <= L2~reg0.DB_MAX_OUTPUT_PORT_TYPE
+L3 <= L3~reg0.DB_MAX_OUTPUT_PORT_TYPE
+L4 <= L4~reg0.DB_MAX_OUTPUT_PORT_TYPE
+L5 <= L5~reg0.DB_MAX_OUTPUT_PORT_TYPE
+L6 <= L6~reg0.DB_MAX_OUTPUT_PORT_TYPE
+L7 <= L7~reg0.DB_MAX_OUTPUT_PORT_TYPE
+L8 <= L8~reg0.DB_MAX_OUTPUT_PORT_TYPE
+L9 <= L9~reg0.DB_MAX_OUTPUT_PORT_TYPE
+L10 <= L10~reg0.DB_MAX_OUTPUT_PORT_TYPE
+L11 <= L11~reg0.DB_MAX_OUTPUT_PORT_TYPE
+L12 <= L12~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
